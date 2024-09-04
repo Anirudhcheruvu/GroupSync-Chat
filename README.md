@@ -113,6 +113,6 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## Contact
 
-Your Name - (Anirudh Cheruvu) - anirudhcheruvu2014@gmail.com
+Anirudh Cheruvu - anirudhcheruvu2014@gmail.com
 
 Project Link: [https://github.com/Anirudhcheruvu/GroupSync-Chat](https://github.com/Anirudhcheruvu/GroupSync-Chat)
